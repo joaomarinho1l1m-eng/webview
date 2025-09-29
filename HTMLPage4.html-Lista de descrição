@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Lista de descrição</title>
+</head>
+<body>
+    <h3>Lista de descrição</h3>
+    <dl>
+        <dt><strong>HTML</strong></dt>
+        <dd>Linguagem de marcação de texto para web</dd>
+
+        <dt><strong>CSS</strong></dt>
+        <dd>Folha de estilo para paginas web</dd>
+
+        <dt><strong>Javascript</strong></dt>
+        <dd>Linguaguem de programação para interatividade do nosso site</dd>
+    </dl>
+</body>
+</html>
